@@ -1,0 +1,27 @@
+---
+court_level: SUPREME_COURT
+court_name: Supreme Court of India
+case_title: Kesavananda Bharati v. State of Kerala
+citation: AIR 1973 SC 1461
+decision_date: 1973-04-24
+bench: Sikri C.J., Shelat, Grover, Hegde, Mukherjea, Ray, Palekar, Khanna, Mathew, Beg, Dwivedi, Chandrachud, JJ.
+---
+IN THE SUPREME COURT OF INDIA
+
+This illustrative text is for demonstrating the ingestion pipeline only
+and is not a verbatim reproduction of the reported judgment.
+
+1. The petitioner challenged certain constitutional amendments on the
+ground that Parliament's amending power under Article 368 is not
+unlimited.
+
+2. Reference was made to the earlier view in AIR 1967 SC 1643, which had
+held that fundamental rights could not be abridged by constitutional
+amendment.
+
+3. The Court held that while Parliament has wide power to amend the
+Constitution, that power does not extend to altering its basic
+structure.
+
+4. The decision in AIR 1967 SC 1643 was accordingly overruled to the
+extent it held Article 368 could never be used to amend Part III.
